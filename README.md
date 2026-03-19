@@ -12,3 +12,5 @@ The site uses `pa11y-ci` with `axe-core` and `htmlcs` (default) as runners. To r
 `npm run reports`
 
 This generates an HTML report for every website url in the `pa11y-ci-report` folder.
+
+test
